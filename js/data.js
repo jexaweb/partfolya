@@ -2,7 +2,7 @@ export default [
   {
     title: "Motosiklet-wep-sayt",
     github: "https://github.com/jexaweb/Motosiklet-brands",
-    vercel: "http://127.0.0.1:5500/index.html#harley",
+    vercel: "https://motosiklet-brands.vercel.app/#harley",
   },
   {
     title: "korea-wep-sayt",
