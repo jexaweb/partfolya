@@ -1,8 +1,13 @@
 export default [
   {
+    title: "Motosiklet-wep-sayt",
+    github: "https://github.com/jexaweb/Motosiklet-brands",
+    vercel: "http://127.0.0.1:5500/index.html#harley",
+  },
+  {
     title: "korea-wep-sayt",
-    github: "https://github.com/jexaweb/uyga-vazifa-korea",
-    vercel: "https://uyga-vazifa-korea.vercel.app/",
+    github: "https://github.com/jexaweb/korea-9-uyga-vazifa",
+    vercel: "https://korea-9-uyga-vazifa.vercel.app/",
   },
   {
     title: "watch-wep-sayt",
