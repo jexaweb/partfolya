@@ -1,5 +1,15 @@
 export default [
   {
+    title: "korea-wep-sayt",
+    github: "https://github.com/jexaweb/uyga-vazifa-korea",
+    vercel: "https://uyga-vazifa-korea.vercel.app/",
+  },
+  {
+    title: "watch-wep-sayt",
+    github: "https://github.com/jexaweb/9uyga-vazifa",
+    vercel: "https://9uyga-vazifa.vercel.app/",
+  },
+  {
     title: "intro-section-with-dropdown-navigation",
     github: "https://github.com/jexaweb/2oy-7dars-uyga-vazifa",
     vercel: "https://2oy-7dars-uyga-vazifa.vercel.app/",
