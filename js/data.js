@@ -1,5 +1,10 @@
 export default [
   {
+    title: "korea saytga vide",
+    github: "https://github.com/jexaweb/tajriba",
+    vercel: "https://tajriba-zeta.vercel.app/",
+  },
+  {
     title: "Motosiklet-wep-sayt",
     github: "https://github.com/jexaweb/Motosiklet-brands",
     vercel: "https://motosiklet-brands.vercel.app/#harley",
