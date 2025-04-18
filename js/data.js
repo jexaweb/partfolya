@@ -1,5 +1,20 @@
 export default [
   {
+    title: "intro-section-with-dropdown-navigation3",
+    github: "https://github.com/jexaweb/2oy-7dars-uyga-vazifa",
+    vercel: "https://2oy-7dars-uyga-vazifa.vercel.app/",
+  },
+  {
+    title: "recipe-page2",
+    github: "https://github.com/jexaweb/recipe-page",
+    vercel: "https://recipe-page-mauve-three.vercel.app/",
+  },
+  {
+    title: "contact-form1",
+    github: "https://github.com/jexaweb/contact-form",
+    vercel: "https://contact-form-gules-ten.vercel.app/",
+  },
+  {
     title: "korea saytga vide",
     github: "https://github.com/jexaweb/tajriba",
     vercel: "https://tajriba-zeta.vercel.app/",
