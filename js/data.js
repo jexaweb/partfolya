@@ -1,5 +1,10 @@
 export default [
   {
+    title: "myteam",
+    github: "https://github.com/jexaweb/myteam",
+    vercel: "https://myteam-pink.vercel.app/",
+  },
+  {
     title: "intro-section-with-dropdown-navigation3",
     github: "https://github.com/jexaweb/2oy-7dars-uyga-vazifa",
     vercel: "https://2oy-7dars-uyga-vazifa.vercel.app/",
