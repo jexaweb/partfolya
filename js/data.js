@@ -1,5 +1,10 @@
 export default [
   {
+    title: "to'liq mytem sayt",
+    github: "https://github.com/jexaweb/to-liq-mytem-sayt",
+    vercel: "https://to-liq-mytem-sayt.vercel.app/",
+  },
+  {
     title: "myteam",
     github: "https://github.com/jexaweb/myteam",
     vercel: "https://myteam-pink.vercel.app/",
