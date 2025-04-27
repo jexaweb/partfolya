@@ -1,5 +1,17 @@
 export default [
   {
+    title: "animatsa",
+    github: "https://github.com/jexaweb/animatsa1",
+    github: "https://github.com/jexaweb/animotsia",
+    vercel: "https://animotsia.vercel.app/",
+    vercel: "https://animatsa1.vercel.app/",
+  },
+  {
+    title: "coffeeroasters-subscription-site-",
+    github: "https://github.com/jexaweb/coffeeroasters-subscription-site",
+    vercel: "https://coffeeroasters-subscription-site-liard.vercel.app/",
+  },
+  {
     title: "to'liq mytem sayt",
     github: "https://github.com/jexaweb/to-liq-mytem-sayt",
     vercel: "https://to-liq-mytem-sayt.vercel.app/",
