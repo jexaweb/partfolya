@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page-design-portfolio",
+    github: "https://github.com/jexaweb/single-page-design-portfolio",
+    vercel: "https://single-page-design-portfolio-olive.vercel.app/",
+  },
+  {
     title: "animatsa",
     github: "https://github.com/jexaweb/animatsa1",
     github: "https://github.com/jexaweb/animotsia",
