@@ -1,5 +1,10 @@
 export default [
   {
+    title: "AMANGANLIKLAR-24",
+    github: "https://github.com/jexaweb/NAMANGANLIKLAR-24",
+    vercel: "https://namanganliklar-24-black.vercel.app/",
+  },
+  {
     title: "single-page-design-portfolio",
     github: "https://github.com/jexaweb/single-page-design-portfolio",
     vercel: "https://single-page-design-portfolio-olive.vercel.app/",
