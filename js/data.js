@@ -1,15 +1,15 @@
 export default [
   {
+    title: "testimonials-grid-section",
+    github: "https://github.com/jexaweb/testimonials-grid-section",
+    vercel: "https://testimonials-grid-section-three-lake.vercel.app/",
+  },
+  {
     title: "bento-grid",
     github: "https://github.com/jexaweb/bento-grid",
     vercel: "https://bento-grid-kappa-dun.vercel.app/",
   },
 
-  {
-    title: "testimonials-grid-section",
-    github: "https://github.com/jexaweb/testimonials-grid-section",
-    vercel: "https://testimonials-grid-section-three-lake.vercel.app/",
-  },
   {
     title: "NAMANGANLIKLAR-24",
     github: "https://github.com/jexaweb/NAMANGANLIKLAR-24",
