@@ -1,5 +1,10 @@
 export default [
   {
+    title: "tech-book-club-landing-page",
+    github: "https://github.com/jexaweb/tech-book-club-landing",
+    vercel: "https://tech-book-club-landing.vercel.app/",
+  },
+  {
     title: "testimonials-grid-section",
     github: "https://github.com/jexaweb/testimonials-grid-section",
     vercel: "https://testimonials-grid-section-three-lake.vercel.app/",
