@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page-design-portfolio1",
+    github: "https://github.com/jexaweb/single-page-design",
+    vercel: "https://single-page-design-ten.vercel.app/",
+  },
+  {
     title: "tech-book-club-landing-page",
     github: "https://github.com/jexaweb/tech-book-club-landing",
     vercel: "https://tech-book-club-landing.vercel.app/",
