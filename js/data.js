@@ -1,5 +1,10 @@
 export default [
   {
+    title: "product-preview-card-component",
+    github: "https://github.com/jexaweb/product-preview-card-component",
+    vercel: "https://product-preview-card-component-delta-green.vercel.app/",
+  },
+  {
     title: "single-page-design-portfolio1",
     github: "https://github.com/jexaweb/single-page-design",
     vercel: "https://single-page-design-ten.vercel.app/",
