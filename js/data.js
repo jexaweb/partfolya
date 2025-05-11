@@ -1,5 +1,10 @@
 export default [
   {
+    title: "intro-component-with-sign-up-form",
+    github: "https://github.com/jexaweb/intro-component-with-sign-up-form",
+    vercel: "https://github.com/jexaweb/intro-component-with-sign-up-form",
+  },
+  {
     title: "product-preview-card-component",
     github: "https://github.com/jexaweb/product-preview-card-component",
     vercel: "https://product-preview-card-component-delta-green.vercel.app/",
