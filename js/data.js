@@ -2,6 +2,12 @@ export default [
   {
     title: "intro-component-with-sign-up-form",
     github: "https://github.com/jexaweb/intro-component-with-sign-up-form",
+    vercel:
+      "file:///C:/Users/user/Desktop/uyga%20vazifa/3oy/intro-component-with-sign-up-form/index.html",
+  },
+  {
+    title: "intro-component-with-sign-up-form",
+    github: "https://github.com/jexaweb/intro-component-with-sign-up-form",
     vercel: "https://github.com/jexaweb/intro-component-with-sign-up-form",
   },
   {
