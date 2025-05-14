@@ -1,5 +1,10 @@
 export default [
   {
+    title: "news-homepage",
+    github: "https://github.com/jexaweb/news-homepage",
+    vercel: "https://news-homepage-gray-omega.vercel.app/",
+  },
+  {
     title: "intro-component-with-sign-up-form",
     github: "https://github.com/jexaweb/John-akhrorweb",
     vercel: "https://john-akhrorweb.vercel.app/",
