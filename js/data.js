@@ -1,5 +1,16 @@
 export default [
   {
+    title: "insure-landing-page",
+    github: "https://github.com/jexaweb/insure-landing-page",
+    vercel: "https://insure-landing-page-ashen.vercel.app/",
+  },
+  {
+    title: "sunnyside-agency-landing-page-akhror-web",
+    github:
+      "https://github.com/jexaweb/sunnyside-agency-landing-page-akhror-web",
+    vercel: "https://sunnyside-agency-landing-page-akhror-web-ten.vercel.app/",
+  },
+  {
     title: "news-homepage",
     github: "https://github.com/jexaweb/news-homepage",
     vercel: "https://news-homepage-gray-omega.vercel.app/",
