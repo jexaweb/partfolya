@@ -1,5 +1,11 @@
 export default [
   {
+    title: "myteam-responsib",
+    github:
+      "https://github.com/jexaweb/myteam-multi-page-website-akhror-soliev--",
+    vercel: "https://myteam-multi-page-website-akhror-soliev.vercel.app/",
+  },
+  {
     title: "insure-landing-page",
     github: "https://github.com/jexaweb/insure-landing-page",
     vercel: "https://insure-landing-page-ashen.vercel.app/",
