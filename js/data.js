@@ -1,5 +1,11 @@
 export default [
   {
+    title: "shoping",
+    github: "https://github.com/jexaweb/context",
+    vercel: "https://context-1tl3.vercel.app/",
+  },
+
+  {
     title: "myteam-responsib",
     github:
       "https://github.com/jexaweb/myteam-multi-page-website-akhror-soliev--",
